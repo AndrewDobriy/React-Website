@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/React-Website/static/css/main.718c640c.css",
-    "main.js": "/React-Website/static/js/main.fb169b16.js",
-    "static/media/img-2.jpg": "/React-Website/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "main.css": "/React-Website/static/css/main.f699f633.css",
+    "main.js": "/React-Website/static/js/main.f0022d19.js",
+    "static/media/img-11.jpg": "/React-Website/static/media/img-11.55d381c4bfdb1d7d0328.jpg",
     "static/media/img-1.jpg": "/React-Website/static/media/img-1.53f4843759ebec256cb9.jpg",
-    "static/media/img-8.jpg": "/React-Website/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "static/media/img-10.jpg": "/React-Website/static/media/img-10.894a6b43f9be770eec6c.jpg",
     "index.html": "/React-Website/index.html",
-    "main.718c640c.css.map": "/React-Website/static/css/main.718c640c.css.map",
-    "main.fb169b16.js.map": "/React-Website/static/js/main.fb169b16.js.map"
+    "main.f699f633.css.map": "/React-Website/static/css/main.f699f633.css.map",
+    "main.f0022d19.js.map": "/React-Website/static/js/main.f0022d19.js.map"
   },
   "entrypoints": [
-    "static/css/main.718c640c.css",
-    "static/js/main.fb169b16.js"
+    "static/css/main.f699f633.css",
+    "static/js/main.f0022d19.js"
   ]
 }
