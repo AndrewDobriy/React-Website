@@ -7,7 +7,6 @@ import Services from './components/pages/Services.js';
 import Products from './components/pages/Products.js';
 import SignUp from './components/pages/SignUp.js';
 import Footer from './components/footer';
-
 function App() {
   return (
     <>
