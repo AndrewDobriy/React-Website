@@ -1,6 +1,7 @@
 {
-  "name": "my-app",
+  "name": "React-Website",
   "version": "0.1.0",
+  "homepage": "http://AndrewDobriy.github.io/React-Website",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
