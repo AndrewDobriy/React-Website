@@ -11,8 +11,8 @@ function HeroSection() {
         autoPlay
         loop
         muted
-        playsinline="true"
         disablePictureInPicture="true"
+        playsinline="true"
       />
       <h1>ADVENTURE AWAITS</h1>
       <p>What are you waiting for ?</p>
